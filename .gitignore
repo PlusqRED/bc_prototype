@@ -21,7 +21,7 @@
 **/.cache
 /.idea
 /.settings
-/.bsp/
+/.bsp
 /.vscode
 
 /qbin
